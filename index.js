@@ -57,10 +57,3 @@
     "https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js",
     "Moengage"
 );
-
-Moengage = moe({
-    app_id: "5S7AFQ7230GGY0T2IPHL9L66",
-    debug_logs: 1,
-});
-
-window.Moengage = Moengage;
